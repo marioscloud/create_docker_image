@@ -2,7 +2,7 @@ FROM node:21.7
 
 WORKDIR /home/node/app
 
-COPY app.js .
+COPY app.config.js .
 
 EXPOSE 8080
 
