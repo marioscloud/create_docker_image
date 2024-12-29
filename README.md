@@ -43,4 +43,4 @@ Hit Ctrl-C to stop the running container.
 
 ## Acknowledgements
 Thanks to the contributors and maintainers of the Node.jsDocker image.
-Bsed on exercise on the book Fundamentals of DevOps and Software Delivery, Yevgeniy Brikman, Published by O'Reilly Media, Inc.
+Bsed on exercises contained in the book "Fundamentals of DevOps and Software Delivery", Yevgeniy Brikman, Published by O'Reilly Media, Inc.
