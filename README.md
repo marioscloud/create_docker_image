@@ -15,23 +15,25 @@ If you have any questions, feel free to reach out at marioscloud@duck.com.
 1. Clone the repository:
 ```sh
 git clone https://github.com/marioscloud/create_docker_image
-            3. Navigate to the project directory:
+
+2. Navigate to the project directory:
 sh
 cd /create_docker_image
-            4. Build the Docker image::
+
+3. Build the Docker image::
 sh
 docker build -t sample-app:v1 .
-            5. Run the Docker image:
+
+4. Run the Docker image:
 sh
 docker run -p 8080:8080 --init sample-app:v1
 
-In another terminal on your host OS, you should now be able to see the sample app working:
+5. In another terminal on your host OS, you should now be able to see the sample app working:
 
 $ curl localhost:8080
 Hello, World!
 
-
-            6. Stopping the container::
+6. Stopping the container::
 sh
 Hit Ctrl-C to stop the running container.
 
