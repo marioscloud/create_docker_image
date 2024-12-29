@@ -1,4 +1,4 @@
-# My Terraform Project: Create a Docker Image for a Node.js app
+# My Devops Project: Create a Docker Image for a Node.js app
 
 ## Project Overview
 This project demonstrates how to create a Docker image for a Node.js sample app. It provides a step-by-step guide to containerizing a Node.js application and running it using Docker. This is ideal for developers and DevOps practitioners looking to understand containerization.
